@@ -1,10 +1,5 @@
 # Capstone LLC API Documentation Style Guide
 
-# Intro 
-*This is a style guide for a fake organization: 'Capstone LLC'.
-The general principles can be applied to most API documentation but should be adapted based on your use case and internal style preferences.
-Be sure to compare this style guide with any current marketing style standards and merge, where necessary.*
-
 This style guide provides guidelines for Capstone, LLC API documentation.
 
 It includes s list of [words to avoid](#words-to-avoid)
