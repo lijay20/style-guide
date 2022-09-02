@@ -33,12 +33,12 @@ Do not use these words unless you have a really good reason.
 The following are common terms that often appear in the Capstone LLC docs.
 Use the word or phrase as written and avoid variations where possible.
 
-- *Capstone*
+- **Capstone**
   - Avoid
     - Cap Stone
     - Cap stone
     - CapStone
-- *E-ticket*
+- **E-ticket**
   - Avoid
     - eticket
     - eTicket
@@ -47,12 +47,12 @@ Use the word or phrase as written and avoid variations where possible.
       - Not: "Add the E-ticket to your order."
     - Example 2 (Title): "How to Add an E-ticket"
       - Not: "How to Add an E-Ticket"
-- *E-commerce*
+- **E-commerce**
   - Avoid
     - ecommerce
     - eCommerce
-  - (Same capitalization rules as E-ticket, above.)
-- *JSON*
+  - (Same capitalization rules as 'e-ticket', above.)
+- **JSON**
   - Avoid: 
     - json
     - .json
@@ -63,9 +63,8 @@ Use the word or phrase as written and avoid variations where possible.
 Below is a list of common phrases that appear often in the API reference docs.
 Use the phrase as closely as possible.
 
-- "Send a GET request to the `/v3/test.json` for a full list of options."
-  - Avoid
-    - "See 'test'."
+- "Refer to the `/v3/payment.json` endpoint."
+  - Avoid: "Refer to 'payment'."
 
 # Example Objects
 
@@ -75,6 +74,7 @@ The following example objects can be used as needed.
 - Name: Anjelica Taylor
   - User ID: 388420
   - Hired Date: '2022-11-02'
+  - Category: I9
 
 ## Payment Object
 - Cardholder Name: Wes Hroch
