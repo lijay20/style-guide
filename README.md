@@ -1,4 +1,4 @@
-# Capstone LLC API Documentation Style Guide
+# API Documentation Style Guide
 
 This style guide provides guidelines for Capstone, LLC API documentation.
 
