@@ -13,7 +13,7 @@ please default to the [Google style guide](https://developers.google.com/style).
 [//]: # (&#40;please default to the [Microsoft style guide]&#40;https://docs.microsoft.com/en-us/style-guide/welcome/&#41;&#41;)
 
 # Words to Avoid
-Do not use these words unless you have a compelling reason.
+Do not use these words unless you have a compelling reason:
 
 - simply
 - just
